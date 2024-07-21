@@ -1,5 +1,7 @@
 package net.ivan.headlampmod;
 
+//testing if i can push this, im new to githug :3
+
 import com.mojang.logging.LogUtils;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -13,7 +15,6 @@ import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 
-// The value here should match an entry in the META-INF/mods.toml file
 @Mod(HeadLampMod.MOD_ID)
 public class HeadLampMod {
     public static final String MOD_ID = "headlampmod";
